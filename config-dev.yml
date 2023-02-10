@@ -3,3 +3,4 @@ spring:
     name: springcloud-config-dev
   profiles:
     active: dev
+version: 1
